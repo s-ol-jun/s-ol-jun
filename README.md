@@ -2,7 +2,7 @@
 
 📆 21
 
-💻 C/C++, Java, Python
+💻 C/C++, Java, Web (HTML, CSS, JavaScript, React, NodeJS)
 
 📩 sofiaolondo@gmail.com
 
