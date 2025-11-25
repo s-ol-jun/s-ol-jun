@@ -2,10 +2,11 @@
 
 📆 21
 
-💻 C/C++, Java, Web (HTML, CSS, JavaScript, React, NodeJS)
+💻 C/C++ (General), C# (Unity Scripting), Java, Web (HTML, CSS, JavaScript, React, NodeJS)
 
 📩 sofiaolondo@gmail.com
 
+<!---
 --------------------------
 ☆ ESPAÑOL:
 
@@ -20,7 +21,7 @@ Hello! My name is Sofia, I am a Software Engineering Student from Madrid, Spain.
 
 I like to develop small/simple projects on my free time, which I might post here if I feel like sharing them
 
-<!--- - 👋 Hi, I’m @s-ol-jun
+ - 👋 Hi, I’m @s-ol-jun
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
