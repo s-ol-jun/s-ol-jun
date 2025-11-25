@@ -6,6 +6,9 @@
 
 📩 sofiaolondo@gmail.com
 
+Estudiante de Ingeniería de Software con mención en programación de videojuegos.
+
+
 <!---
 --------------------------
 ☆ ESPAÑOL:
